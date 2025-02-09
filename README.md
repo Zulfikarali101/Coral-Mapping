@@ -1,5 +1,5 @@
 # Coral-Mapping
-Coral mapping in Wakatobi Regency using Lyzenga Algorithm Wangi-wangi Island is one of the islands in the Wakatobi Regency. Wangi-wangi 
+Coral mapping in Wakatobi Regency using Lyzenga Algorithm and K-Means Clustering. Wangi-wangi Island is one of the islands in the Wakatobi Regency. Wangi-wangi 
 Island has diverse coral reef biodiversity. Coral reefs are an important part of the 
 marine ecosystem. Ecologically, coral reefs serve as nutrient providers for various 
 marine biota. Although coral reefs play a crucial role in the ecosystem, globally, 
